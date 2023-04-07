@@ -1,0 +1,45 @@
+links-
+
+1. MODIFY any SOFT link and observer original?
+2. MODIFY original file of SOFT link and observe?
+1. Remove any SOFT link and observer original?
+2. Remove original file of SOFT link and observe?
+----
+1. MODIFY any HARD link and observer original?
+2. MODIFY Original file of HARD link and observe?
+3. Remove any HARD link and observer original?
+4. Remove original file of HARD link and observe?
+---
+Comparision among soft,hard,copy?
+---
+what are wget , curl commands differences?
+-----
+
+Scripts-
+1. write a script to print the date and redirect it to output.txt?
+
+2. create a file or folder using the date as the name?
+
+3. i) Create a bash script to print the local time, date, username of your system, and your current path.
+    ii) After printing, redirect the output into a file called output.txt
+    iii) Insert output.txt into a new directory, where the directory name is the current timestamp.
+
+4. Create a bash script to execute the date every 2 minutes once on Saturdays only.
+
+5. Take a backup of a folder every month twice?
+
+6. Print the count of the number of files in a file called count.txt?
+
+7. Create files dynamically every day at 12 AM where the file name is a date?
+CRONTAB SCRIPTS LABS:
+
+1. Write a script to print the current directory and username and redirect it to a file called output.txt?
+2. Create a file with the current timestamp as its name inside a folder with the current date as its name?
+3. Create a bash script to print the local time, date, username of your system, and your current path and redirect the output into a file called output.txt. Insert output.txt into a new directory, where the directory name is the current timestamp.
+4. Write a script to print the count of the number of files in a folder and redirect the count to a file called count.txt.
+(Reference: Google about word count and pipe commands in Linux)
+5. Create a bash script to execute the date every 2 minutes once on weekends only?
+6. Take a backup of a folder daily twice?
+
+Bonus question:
+Create a file with the current timestamp as its name once per minute inside a folder with the current timestamp as its name once per 4 minutes
